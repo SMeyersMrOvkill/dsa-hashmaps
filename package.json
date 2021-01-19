@@ -1,0 +1,12 @@
+{
+  "name": "dsa-hash-maps",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/main.js",
+  "scripts": {
+    "start": "node src/HashMaps_drills.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
